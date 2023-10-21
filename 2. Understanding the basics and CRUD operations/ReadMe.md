@@ -15,3 +15,4 @@ This module introduces core MongoDB basics, including collections, documents, da
 | **No.** |                                                **Topics**                                                |
 | :-----: | :------------------------------------------------------------------------------------------------------: |
 |    1    | [Understanding Database, Collection and Document ](<./Understanding Database, Collection & document.md>) |
+|    2    |                 [Create Database and Collection](<./Creating Database & Collection.md>)                  |
